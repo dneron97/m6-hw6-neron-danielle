@@ -33,6 +33,10 @@ nav{
 
 }
 
+p {
+    color: pink;
+}
+
 .link{
     margin: 0 4px
 }

@@ -18,9 +18,22 @@ header, footer {
 
 nav{
     display: flex;
-    color: white;
-    padding: 0 4px;
 }
+
+.logo, .link {
+    color: white;
+}
+
+.logo{
+    margin-right: auto;
+
+}
+
+.link {
+    margin: 0 4px
+}
+
+
 
 
 footer {

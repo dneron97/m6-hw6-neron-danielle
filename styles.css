@@ -21,7 +21,7 @@ header, footer {
 }
 
 .sidebar_menu {
-    text-align: right;
+    margin-right: 0;
 }
 
 nav{

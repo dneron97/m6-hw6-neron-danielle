@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main, nav {
+    width: 800px;
+    margin: 0auto;
+    padding: 0 12px;
+}
+
+header, footer {
+    background-color: navy;
+    padding: 24px 0;
+}
+
+nav{
+    display: flex;
+}
+
+.logo, .link {
+    color: white;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.link {
+    margin: 0 4px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    margin-top: auto;
+}

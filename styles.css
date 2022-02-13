@@ -20,21 +20,18 @@ nav{
     display: flex;
 }
 
-.logo, nav{
+.logo, .link {
     color: white;
 }
 
-.logo{
+.logo, .link {
     margin-right: auto;
 
 }
 
-nav{
+.link{
     margin: 0 4px
 }
-
-
-
 
 footer {
     color: white;

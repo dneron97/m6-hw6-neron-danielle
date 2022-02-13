@@ -5,6 +5,10 @@ body {
     flex-direction: column;
 }
 
+title {
+    color: pink;
+}
+
 main, nav {
     width: 800px;
     margin: 0auto;

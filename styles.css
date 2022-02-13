@@ -18,19 +18,10 @@ header, footer {
 
 nav{
     display: flex;
-}
-
-.logo, .link {
     color: white;
+    padding: 0 4px;
 }
 
-.logo {
-    margin-right: auto;
-}
-
-.link {
-    margin: 0 4px;
-}
 
 footer {
     color: white;

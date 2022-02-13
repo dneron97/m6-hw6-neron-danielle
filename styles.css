@@ -20,7 +20,7 @@ nav{
     display: flex;
 }
 
-.logo, .link {
+.logo, nav{
     color: white;
 }
 
@@ -29,7 +29,7 @@ nav{
 
 }
 
-.link {
+nav{
     margin: 0 4px
 }
 
